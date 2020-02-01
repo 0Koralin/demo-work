@@ -6,7 +6,7 @@ Codepath's prework repo!
 ### App Description
 Demo app where tapping the button once changes the color of the label/main text.
 
-### App Walk-though
+### App Walk-through
 <img src="https://recordit.co/mwOiIpPuzI.gif" width=200><br>
 
 ### Required User Stories
