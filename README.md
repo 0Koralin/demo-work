@@ -7,7 +7,7 @@ Codepath's prework repo!
 Demo app where tapping the button once changes the color of the label/main text.
 
 ### App Walk-though
-<img src="https://recordit.co/mwOiIpPuzI" width=200><br>
+<img src="https://recordit.co/mwOiIpPuzI.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
